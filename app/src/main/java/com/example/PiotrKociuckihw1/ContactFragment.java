@@ -90,11 +90,6 @@ public class ContactFragment extends Fragment {
         void onListFragmentClickInteraction(ContactListContent.Contact contact, int position);
         void onListFragmentLongClickInteraction(int position);
         void onDeleteButtonClickInteraction(int position);
-
-
-        // void addClick(View view);
-
-        //void onADDFragmentClickInteraction(ContactListContent.Contact mItem, int position);
     }
 
 }
